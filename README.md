@@ -1,30 +1,17 @@
-# PSFree version 1.5.0
+AKKU ELECTRONICS
 
-Lapse Kex ported to 9.00 - Still WIP
+Welcome to Akku's PlayStation 4
+Gold-HEN 9.00 for firmware
 
-Very fast and reliable but can KP :P
+Akku Electronics is a one-stop shop for all your gaming needs.
+We sell, service, and repair all types of gaming consoles and accessories, as well as gaming computers and laptops.
+We have been in business since 2005 and are committed to providing our customers with the best possible service.
+Visit our website or give us a call today to learn more! PlayStation 2, 3, 4, & 5 ( all Generation Consoles )
+Xbox 360 arcade, Slim, & E ( all Models ) Xbox one standard, S,& X ( all Models ) Xbox Series S & X ( all Models ).
 
-- Needs a bin loader on Port 9020.
-- Some performance Tweaks??.
-- Add sysveri Patch
-  
-PR are welcome 
 
-PSFree is a collection of exploits for the PS4 console. The main focus of the 
-repo is for the PS4 but we try to make things portable to PS5.
+Visit : www.akkuelectronics.in
+Contact: +91 89563 89723
 
-* Exploits
-  * PSFree: src/psfree.mjs
-  * Lapse (kernel): src/scripts/lapse.mjs
 
-Donation (Monero/XMR):
-86Fk3X9AE94EGKidzRbvyiVgGNYD3qZnuKNq1ZbsomFWXHYm6TtAgz9GNGitPWadkS3Wr9uXoT29U1SfdMtJ7QNKQpW1CVS
-
-# COPYRIGHT AND AUTHORS:
-AGPL-3.0-or-later (see src/COPYING). This repo belongs to the group
-`anonymous`. We refer to anonymous contributors as "anonymous" as well.
-
-# CREDITS:
-* anonymous for PS4 firmware kernel dumps
-* Check the appropriate files for any **extra** contributors. Unless otherwise
-  stated, everything here can also be credited to us.
+Whatsapp : +91 89563 89723
